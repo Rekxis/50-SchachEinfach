@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SchachEinfach",
+            "request": "launch",
+            "mainClass": "SchachEinfach",
+            "projectName": "50-SchachEinfach_af63aecd"
+        },
+        {
+            "type": "java",
+            "name": "Launch It!",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "internalConsole"
+        }
+    ]
+}
