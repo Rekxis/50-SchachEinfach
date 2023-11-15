@@ -14,7 +14,7 @@ public class SchachEinfach {
         }
         return spielBrett;
     }
-
+    
     private static void brettAnzeigen(char[][] spielBrett) {
         System.out.print("  abcdefgh\n");
 
