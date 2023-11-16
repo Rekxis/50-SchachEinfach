@@ -5,6 +5,13 @@
             "name": "SchachEinfach",
             "request": "launch",
             "mainClass": "SchachEinfach",
+            "projectName": "50-SchachEinfach_4a9e34af"
+        },
+        {
+            "type": "java",
+            "name": "SchachEinfach",
+            "request": "launch",
+            "mainClass": "SchachEinfach",
             "projectName": "50-SchachEinfach_af63aecd"
         },
         {
